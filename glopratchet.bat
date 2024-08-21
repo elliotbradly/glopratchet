@@ -1,0 +1,2 @@
+cd glp
+node go
