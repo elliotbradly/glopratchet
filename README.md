@@ -2,8 +2,9 @@
 
 # glopratchet
 
-Glopratchet is an automated digital art program designed to recreate the visual expierence of
-watching a janky real time application apply paint using javascript in an Electron browser that creates a unqiue image during each run. It utilizes a single json file which contains all of the paramaters used within the program, like canvas size, brush type, spacing of the mark, color range, saturation, with other specifications. This repo contains only the basics of what is need to run but can be extended with custom brushes if the artist desires.
+Glopratchet is an automated digital art program designed to recreate the captivating – and delightfully unpredictable – visual experience of watching a janky, real-time application apply paint within a JavaScript-powered Electron browser. Each run births a unique image, a fleeting moment captured in code.
+
+The program’s heart lies within a single JSON file, a compendium of parameters that dictate its artistic values: canvas size, brush type, the delicate spacing of each mark, color range, saturation, and a host of other specifications. This repository contains the essential elements needed to bring Glopratchet to life, but it’s also an invitation – a canvas awaiting the artist’s touch, ready to be extended with custom brushes and boundless creativity."
 
 1. [Quick Start](#quick-start)
 1. [Design](#design)
